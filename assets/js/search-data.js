@@ -7,35 +7,35 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/roshdotink/";
+      window.location.href = "/";
     },
   },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/roshdotink/blog/";
+            window.location.href = "/blog/";
           },
         },{id: "nav-cinema",
           title: "cinema",
           description: "films i&#39;ve watched and want to watch",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/roshdotink/cinema/";
+            window.location.href = "/cinema/";
           },
         },{id: "nav-bookshelf",
           title: "bookshelf",
           description: "books that have stayed with me",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/roshdotink/bookshelf/";
+            window.location.href = "/bookshelf/";
           },
         },{id: "nav-links",
           title: "links",
           description: "things worth sharing",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/roshdotink/links/";
+            window.location.href = "/links/";
           },
         },{id: "post-hello-world",
         
@@ -45,7 +45,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/roshdotink/blog/2026/hello-world/";
+            window.location.href = "/blog/2026/hello-world/";
           
         },
       },{
@@ -53,7 +53,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/roshdotink/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/example_pdf.pdf", "_blank");
         },
       },{
         id: 'social-email',
