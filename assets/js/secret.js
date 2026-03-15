@@ -1,0 +1,1 @@
+!function(){var e="12042026",n="";document.addEventListener("keypress",function(t){(n+=t.key).length>e.length&&(n=n.slice(-e.length)),n===e&&(n="",window.location.href="/roshkaysh/")})}();
