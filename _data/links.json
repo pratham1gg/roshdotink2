@@ -1,0 +1,23 @@
+[
+  {
+    "title": "The Bitter Lesson",
+    "url": "http://www.incompleteideas.net/IncIdeas/BitterLesson.html",
+    "date": "2026-03-10",
+    "tags": ["article", "ai","crazy"],
+    "description": "Rich Sutton on how general methods that leverage computation always win over methods that encode human knowledge."
+  },
+  {
+    "title": "Andrej Karpathy: The Unreasonable Effectiveness of Recurrent Neural Networks",
+    "url": "https://karpathy.github.io/2015/05/21/rnn-effectiveness/",
+    "date": "2026-03-08",
+    "tags": ["article", "ai"],
+    "description": "A classic blog post showing what RNNs can do when trained on raw text. Still a delightful read."
+  },
+  {
+    "title": "Everything is a Remix",
+    "url": "https://www.everythingisaremix.info/watch-the-series",
+    "date": "2026-03-01",
+    "tags": ["video", "creativity"],
+    "description": "Kirby Ferguson's essay series on how creativity is built on copying, transforming, and combining."
+  }
+]
