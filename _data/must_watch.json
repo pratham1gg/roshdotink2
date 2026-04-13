@@ -1,18 +1,26 @@
 [
   {
-    "title": "Paatal Lok",
-    "year": "2020",
+    "title": "Adolescence",
+    "year": "2025",
     "type": "Show",
-    "poster": "https://image.tmdb.org/t/p/w300/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
-    "url": "https://www.primevideo.com/detail/Paatal-Lok/0GJAH6RQHBFMMGJNRHDSVVZNQJ",
-    "note": "One of the most unsparing portraits of Indian society I've seen on screen. It doesn't flinch. Watch it."
+    "poster": "https://image.tmdb.org/t/p/w300/adolescence2025.jpg",
+    "url": "https://letterboxd.com/film/adolescence-2025/",
+    "note": "to be updated"
   },
   {
-    "title": "Parasite",
-    "year": "2019",
+    "title": "Dilwale Dulhania Le Jayenge",
+    "year": "1995",
     "type": "Film",
-    "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/6/4/0/6/426406-parasite-0-2000-0-3000-crop.jpg?v=8f5653f710",
-    "url": "https://letterboxd.com/film/parasite-2019/",
-    "note": "Replace with your own note."
+    "poster": "https://image.tmdb.org/t/p/w300/2CAL2433j2hPnFQQIFq5b3Nl9wX.jpg",
+    "url": "https://letterboxd.com/film/dilwale-dulhania-le-jayenge/",
+    "note": "to be updated"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "year": "1994",
+    "type": "Film",
+    "poster": "https://image.tmdb.org/t/p/w300/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "url": "https://letterboxd.com/film/the-shawshank-redemption/",
+    "note": "to be updated"
   }
 ]
