@@ -6,7 +6,7 @@
     if (buffer.length > target.length) buffer = buffer.slice(-target.length);
     if (buffer === target) {
       buffer = '';
-      window.open('https://roshkaysh.vercel.app', '_blank', 'noopener,noreferrer');
+      window.open('https://pg.rosh.ink', '_blank', 'noopener,noreferrer');
     }
   });
 })();
