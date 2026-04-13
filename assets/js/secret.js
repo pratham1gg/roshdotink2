@@ -6,7 +6,7 @@
     if (buffer.length > target.length) buffer = buffer.slice(-target.length);
     if (buffer === target) {
       buffer = '';
-      window.location.href = 'https://roshkaysh.vercel.app';
+      window.open('https://roshkaysh.vercel.app', '_blank', 'noopener,noreferrer');
     }
   });
 })();
