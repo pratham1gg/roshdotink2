@@ -1,5 +1,32 @@
 [
   {
+    "title": "Mulan",
+    "year": "1998",
+    "rating": 4.5,
+    "watched_date": "2026-06-24",
+    "url": "https://letterboxd.com/roshkaysh/film/mulan/",
+    "poster": "https://a.ltrbxd.com/resized/sm/upload/yz/dm/zk/5z/5vG3XyQNxOkl2Qd7D8MzMoY6sm2-0-600-0-900-crop.jpg?v=660de4097f",
+    "review": "- they're disgusting.- no, they're men."
+  },
+  {
+    "title": "The Menu",
+    "year": "2022",
+    "rating": 3.5,
+    "watched_date": "2026-06-25",
+    "url": "https://letterboxd.com/roshkaysh/film/the-menu-2022/",
+    "poster": "https://a.ltrbxd.com/resized/film-poster/5/2/1/3/2/3/521323-the-menu-0-600-0-900-crop.jpg?v=d00a0d03a8",
+    "review": "A little bizarre, but fair enough ig. The tortillas were pretty cool ngl"
+  },
+  {
+    "title": "Mardaani 3",
+    "year": "2026",
+    "rating": 2.5,
+    "watched_date": "2026-06-18",
+    "url": "https://letterboxd.com/roshkaysh/film/mardaani-3/",
+    "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/3/4/5/5/6/1234556-mardaani-3-0-600-0-900-crop.jpg?v=409d11723e",
+    "review": "Twists be like abbas mustaan.Atleast she didn't go all preachy on us like in mardaani 2 (vishal jethwa was too good).Quite reminiscent of delhi crime S3 too"
+  },
+  {
     "title": "Homebound",
     "year": "2025",
     "rating": 4.5,
